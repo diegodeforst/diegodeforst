@@ -6,12 +6,10 @@
  </a>
 </div>
 <div style="display: inline_block"><br>
-  Linguagens:
-  HTML <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   </a>
-  CSS <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   </a> 
- 
+  Certificados pela DIO:
+  <div> <img align="center" alt="Diego-certificado"  src="https://scontent.fcgh12-1.fna.fbcdn.net/v/t39.30808-6/267358643_10223353864708994_7600963384020119333_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHpkZ-aH7dYDDMWRxbf-bDtEWzqDF6CmtkRbOoMXoKa2URo0t3WW4WlgfBtKcQJ_JI&_nc_ohc=NaxamlZ4vv0AX_Nyw4f&tn=x8fuDFXbj5Xvcc6p&_nc_ht=scontent.fcgh12-1.fna&oh=00_AT8Z6tLu-rteMmiY54drNwspq-CgXPVMQOrXx2ejgR7HZw&oe=61BDCDB8">
+  </div> 
+
 </div>
   
 - 🔭 Estou estudando.
