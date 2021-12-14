@@ -5,8 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodeforst&show_icons=true&theme=Night&include_all_commits=true&count_private=true"/>
  </a>
 </div>
-<div style="display: inline_block"><br>
-  Certificados pela DIO:
+<p><b>
+  Certificados pela DIO:</b>
   <div> <img align="center" alt="Diego-certificado"  src="https://scontent.fcgh12-1.fna.fbcdn.net/v/t39.30808-6/267358643_10223353864708994_7600963384020119333_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHpkZ-aH7dYDDMWRxbf-bDtEWzqDF6CmtkRbOoMXoKa2URo0t3WW4WlgfBtKcQJ_JI&_nc_ohc=NaxamlZ4vv0AX_Nyw4f&tn=x8fuDFXbj5Xvcc6p&_nc_ht=scontent.fcgh12-1.fna&oh=00_AT8Z6tLu-rteMmiY54drNwspq-CgXPVMQOrXx2ejgR7HZw&oe=61BDCDB8">
   </div> 
 
