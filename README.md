@@ -8,7 +8,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodeforst&layout=compact&langs_count=7&theme=Night"/>
 <p><b>
   Certificados pela DIO:</b>
-  <div> <img align="center" alt="Diego-certificado"  src="https://uploaddeimagens.com.br/images/003/592/116/full/DIO.jpg?1639687849">
+  <div> <img align="center" alt="Diego-certificado"  src="https://uploaddeimagens.com.br/images/003/612/486/full/Cursos_DIO.jpg?1641238746b">
   </div> 
 
 <p>
