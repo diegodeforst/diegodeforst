@@ -18,7 +18,7 @@
 <p>
   
 - 🔭 Estou estudando.
-- 🌱 Atualmente pretendo trabalhar com front-end.
+- 🌱 Atualmente pretendo trabalhar com fullstack.
 - 👯 Eu procuro colaborar com as pessoas que me pedem ajuda.
 - 🤔 Procuro me desenvolver constantemente, individualmente e junto com as pessoas do meio.
 - 📫 Pode me localizar através do: <a href="https://www.instagram.com/diegodeforst/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
