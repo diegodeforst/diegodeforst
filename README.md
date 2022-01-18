@@ -12,7 +12,7 @@
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Diego-SQL" height="30" width="40 src="http://sidroniolima.com.br/blog/wp-content/uploads/2018/08/sql.png">
+    <img align="center" alt="Diego-SQL" height="30" width="40" src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1555309685">
   </div> 
 
 <p>
